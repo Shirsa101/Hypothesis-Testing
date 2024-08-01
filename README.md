@@ -1,4 +1,4 @@
-This activity is a part of a bigger fictional agenda in which a data professional working for the Department of a large nation is analyzing data on the 
+This activity is a part of a bigger fictional agenda in which a data professional working for the Department of Education of a large nation is analyzing data on the 
 literacy rate for each district. 
 Supposing the data professional has been tasked to to collect data on mean district literacy rates for two of the nation's largest states :
 STATE21 and STATE28. STATE28 has almost 40 districts, and STATE21 has more than 70. Due to limited time and resources, they are only able to survey 20
